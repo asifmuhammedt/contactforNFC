@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Last;First;;;
+FN:First Last
+ORG:Your Company
+TITLE:Your Title
+TEL;TYPE=CELL:+49 000 0000000
+EMAIL:you@example.com
+URL:https://example.com
+ADR;TYPE=WORK:;;Street 1;City;;12345;Germany
+END:VCARD
